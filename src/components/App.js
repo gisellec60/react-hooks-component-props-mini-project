@@ -3,7 +3,6 @@ import blogData from "../data/blog"
 import Header from "./Header"
 import About from "./About"
 import ArticleList from "./ArticleList"
-// import Article from "./Article"
 
 function App() {
   const posts = blogData.posts
