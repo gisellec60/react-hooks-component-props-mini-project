@@ -18,15 +18,3 @@ function App() {
  export default App;
 
 
-// function App() {
-//   return (
-//     <div className="App">
-//       <Header />
-//       <About image={blogData.image} about={blogData.about} />
-//       <ArticleList post = {posts} /> 
-      
-//     </div>
-//   );
-// }
-
-// export default App;
